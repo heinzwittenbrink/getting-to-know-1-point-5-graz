@@ -15,7 +15,7 @@ link-citations: true
 
 - Achieving climate neutrality in the city according to a path compatible with the 1.5 degree target
 - Linking climate protection with climate justice from the local to the international level
-- Transforming the city as a component of a comprehensive transformation
+- Transforming the city as a component of a global transformation
 
 ## Activities
 
